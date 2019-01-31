@@ -1,0 +1,13 @@
+C:\Users\hardy\source\repos\Catherine\Catherine\bin\Debug\Catherine.exe.config
+C:\Users\hardy\source\repos\Catherine\Catherine\bin\Debug\Catherine.exe
+C:\Users\hardy\source\repos\Catherine\Catherine\bin\Debug\Catherine.pdb
+C:\Users\hardy\source\repos\Catherine\Catherine\bin\Debug\NAudio.dll
+C:\Users\hardy\source\repos\Catherine\Catherine\bin\Debug\NAudio.xml
+C:\Users\hardy\source\repos\Catherine\Catherine\obj\Debug\Catherine.csprojAssemblyReference.cache
+C:\Users\hardy\source\repos\Catherine\Catherine\obj\Debug\Catherine.Form1.resources
+C:\Users\hardy\source\repos\Catherine\Catherine\obj\Debug\Catherine.Properties.Resources.resources
+C:\Users\hardy\source\repos\Catherine\Catherine\obj\Debug\Catherine.csproj.GenerateResource.cache
+C:\Users\hardy\source\repos\Catherine\Catherine\obj\Debug\Catherine.csproj.CoreCompileInputs.cache
+C:\Users\hardy\source\repos\Catherine\Catherine\obj\Debug\Catherine.csproj.CopyComplete
+C:\Users\hardy\source\repos\Catherine\Catherine\obj\Debug\Catherine.exe
+C:\Users\hardy\source\repos\Catherine\Catherine\obj\Debug\Catherine.pdb
